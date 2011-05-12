@@ -236,7 +236,7 @@ set autochdir
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Plugin setting
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
+autocmd FileType javascript set dictionary=~/.vim/dict/javascript.dict
 
 let b:javascript_fold=1
 " 打开javascript对dom、html和css的支持
@@ -282,7 +282,7 @@ autocmd FileType python filetype plugin indent on
 autocmd FileType python setlocal et sta sw=4 sts=4
 
 """"""""""""""""""""""""""""""
-" javascriptlint setting
+" jslint setting
 """"""""""""""""""""""""""""""
 nnoremap <F8> :JSLintUpdate<CR>
 
