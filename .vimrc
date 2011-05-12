@@ -289,5 +289,5 @@ nnoremap <F8> :JSLintUpdate<CR>
 """"""""""""""""""""""""""""""
 " Gundo setting
 """"""""""""""""""""""""""""""
-"nnoremap <F9> :GundoToggle<CR>
+nnoremap <F9> :GundoToggle<CR>
 
