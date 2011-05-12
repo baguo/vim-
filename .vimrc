@@ -284,7 +284,7 @@ autocmd FileType python setlocal et sta sw=4 sts=4
 """"""""""""""""""""""""""""""
 " javascriptlint setting
 """"""""""""""""""""""""""""""
-"nnoremap <F8> :JSLintUpdate<CR>
+nnoremap <F8> :JSLintUpdate<CR>
 
 """"""""""""""""""""""""""""""
 " Gundo setting
