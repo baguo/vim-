@@ -309,8 +309,4 @@ autocmd FileType python setlocal et sta sw=4 sts=4
 """"""""""""""""""""""""""""""
 nnoremap <F8> :JSLintUpdate<CR>
 nnoremap <F9> :JSLintToggle<CR>
-""""""""""""""""""""""""""""""
-" Gundo setting
-""""""""""""""""""""""""""""""
-"nnoremap <F10> :GundoToggle<CR>
 
