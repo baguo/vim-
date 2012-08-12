@@ -1,4 +1,3 @@
-
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " My  config
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -251,7 +250,7 @@ nnoremap <silent> <F6> :Rgrep<CR>
 """"""""""""""""""""""""""""""
 nnoremap <silent> <F5> :FufFile<CR>
 let g:fuf_previewHeight=0
-set tags=tags    
+set tags=tags；  
 set autochdir
 
 
